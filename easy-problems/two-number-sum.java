@@ -32,7 +32,7 @@ class Program {
    * @return int[]
    */
   public static int[] twoNumberSumFaster(int[] array, int targetSum) { 
-    // key = number, value = index 
+    // Note if we were to return the indexes instead then we'd utilize a HashMap with a value of the index. 
     Set<Integer> nums = new HashSet<Integer>(); 
     for (int num : array) { 
       int complement = targetSum - num; 
