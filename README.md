@@ -5,7 +5,9 @@ Just me attempting to go over concepts I haven't seen or read about it in the pa
 Also since I majored in an electrical engineering variant I may be seeing some of these concepts for the first time. 
 
 # Table of contents
-[Introduction](introduction/introduction.md)
+1. [Introduction](introduction/introduction.md)
+2. [Complexity](complexity/complexity.md)
+3. [Easy problems](easy-problems/easy-problems.md)
 
 # Resources I used to prepare 
 Everyone's favorite [leetcode](https://leetcode.com)
