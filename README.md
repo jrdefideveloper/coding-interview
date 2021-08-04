@@ -17,6 +17,7 @@ Everyone's favorite [leetcode](https://leetcode.com)
 + AlgoExperts 
 + Geek4Geeks 
 + I own Skiena's Algorithm Design book but it bored me to tears so I didn't end up reading it much. Sorry sir skiena 
++ Java [docs](https://docs.oracle.com/en/java/javase/11/docs/api/index.html) because unfortunately we're going to be using classes we never actually use in real life during the coding interviews. Like `Deque`
 
 Youtube channels - for motivation I like to watch competitive coders code. William Lin and Alex Wice are pretty great channels to follow. 
 
