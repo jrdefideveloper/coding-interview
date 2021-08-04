@@ -6,7 +6,7 @@ Also since I majored in an electrical engineering variant I may be seeing some o
 
 # Table of contents
 1. [Introduction](introduction/introduction.md)
-2. [Complexity](complexity/complexity.md)
+2. [Complexity](complexity-analysis/complexity.md)
 3. [Easy problems](easy-problems/easy-problems.md)
 
 Bonus 
