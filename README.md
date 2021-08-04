@@ -9,8 +9,17 @@ Also since I majored in an electrical engineering variant I may be seeing some o
 2. [Complexity](complexity/complexity.md)
 3. [Easy problems](easy-problems/easy-problems.md)
 
+Bonus 
++ [Real problems](real-problems/real-problems.md)
+
 # Resources I used to prepare 
 Everyone's favorite [leetcode](https://leetcode.com)
+AlgoExperts 
+Geek4Geeks 
+I own Skiena's Algorithm Design book but it bored me to tears so I didn't end up reading it much. 
 
-Youtube channels 
+Youtube channels - for motivation I like to watch competitive coders code. William Lin and Alex Wice are pretty great channels to follow. 
+
+
+# 
 
