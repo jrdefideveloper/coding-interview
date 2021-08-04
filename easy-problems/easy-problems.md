@@ -21,6 +21,11 @@ Videos on `data structures`, `complexity analysis`, `memory`, and `big o notatio
 + Constantly communicate and summarize your implementation you've written thus far 
 + Quality is better than quantity 
 
+Evaluation :trollface: 
+
+Didn't get as much as I could done as I wanted. Still not writing the solutions as fast and elegantly enough. :cry: But I kind of like blogging my progress out. It makes it less dry and painful. :sleepy: 
+Also did some research on smart contract auditing with mythx/manticore. On my business side I've made some major advancements as well. I had a Coinbase interview for tomorrow but moving it out by a lot. 
+
 # *August 04, 2021* 
 
 # Random things I learned 
