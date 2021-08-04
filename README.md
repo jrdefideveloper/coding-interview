@@ -14,9 +14,9 @@ Bonus
 
 # Resources I used to prepare 
 Everyone's favorite [leetcode](https://leetcode.com)
-AlgoExperts 
-Geek4Geeks 
-I own Skiena's Algorithm Design book but it bored me to tears so I didn't end up reading it much. 
++ AlgoExperts 
++ Geek4Geeks 
++ I own Skiena's Algorithm Design book but it bored me to tears so I didn't end up reading it much. Sorry sir skiena 
 
 Youtube channels - for motivation I like to watch competitive coders code. William Lin and Alex Wice are pretty great channels to follow. 
 
