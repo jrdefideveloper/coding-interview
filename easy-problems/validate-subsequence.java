@@ -36,6 +36,16 @@ class Problem2 {
     }
 
 
+    
+    /** 
+     * O(n) time complexity; O(1) space complexity 
+     * 
+     * Only difference with the first solution is the use of for loop instead of while loop 
+     * 
+     * @param array
+     * @param sequence
+     * @return boolean
+     */
     public static boolean isValidSubsequence2(List<Integer> array, List<Integer> sequence) { 
         int seqIndex = 0; 
         for (Integer num : array) {  
