@@ -17,6 +17,7 @@ Bonus
 Everyone's favorite [leetcode](https://leetcode.com)
 + AlgoExperts 
 + Geek4Geeks 
++ Hackerrank (many companies use this format these days)
 + I own Skiena's Algorithm Design book but it bored me to tears so I didn't end up reading it much. Sorry sir skiena 
 + Java [docs](https://docs.oracle.com/en/java/javase/11/docs/api/index.html) because unfortunately we're going to be using classes we never actually use in real life during the coding interviews. Like `Deque` You may need to refer to the docs of whatever language you prepare with at times. For example if you're using some sort of default sorter library you'll want to know what the underlying sort method is and what is the complexity. 
 
@@ -45,7 +46,7 @@ Factor in the fact that I may be a bit slower than my peers then I would need to
 + Goodbye day trading 
 
 # Music recommendations 
-[Lofi lofi lofi] (https://www.youtube.com/watch?v=bmVKaAV_7-A)
+[Lofi lofi lofi](https://www.youtube.com/watch?v=bmVKaAV_7-A)
 
 
 
