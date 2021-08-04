@@ -31,13 +31,14 @@ Also did some research on smart contract auditing with mythx/manticore. On my bu
 
 Solved :pencil:
 
-+ `tournament-winner` - This one is pretty easy. I can solve it in 20 minutes. But sifting through nested ArrayList kind of makes me type erraneous code at times. I noticed I'm fairly good at questions that involve utilizing a hashmap. Instead of traversing the HashMap after in another pass you can also try to use a variable that constantly points to the string. Although I think this makes it less readable... and you are also doing an additional lookup every time anyway. 
++ `tournament-winner` - This one is pretty easy. I can solve it in 20 minutes. But sifting through nested ArrayList kind of makes me type erraneous code at times. It's also kind of nervewracking having someone watch you fumbling around trying to properly add the test case into a nested array. I noticed I'm fairly good at questions that involve utilizing a hashmap. Instead of traversing the HashMap after in another pass you can also try to use a variable that constantly points to the string. Although I think this makes it less readable... and you are also doing an additional lookup every time anyway. 
 
 ```java 
 // Nifty way to traverse a hashmap for the largest value  in 1 line. 
 Collections.max(yourHashMap.entrySet(), Map.Entry.comparingByValue()).getKey(); 
 ```
-+ `non-constructible change` - 
++ `non-constructible change` - this is actually really easy after you run through a couple examples on paper. It's kind of annoying that during the coding interviews you have to speak and type out all the examples. Something about writing it down on a notebook with a paper and pen is how I figure things out. Another interesting thing is the final result if every permutation of change could be made (1-lastCoin). Then the change you're missing is actually lastCoin + 1. Edge case I haven't thought of. grr. 
++ `find-closest-value-in-bst` - I hate tree, graph, and linkedlist questions. idk why. 
 
 
 # Random things I learned 
