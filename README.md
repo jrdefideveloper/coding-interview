@@ -22,5 +22,23 @@ Everyone's favorite [leetcode](https://leetcode.com)
 Youtube channels - for motivation I like to watch competitive coders code. William Lin and Alex Wice are pretty great channels to follow. 
 
 
-# 
+# How much did I study? Schedule I used? 
+I had a fairly lax schedule since I'm not the type to follow stringent routine too much. My requirement for myself was to do five pomodoro's worth of studying a day. A pomodoro for me is equal to 50 minutes of study and 10 minutes of break time. 
+
+Amortized across a month it means I study about **150 hours** a month. 
+
+I asked my friends that have jobs at big tech about their interview efforts and they've averaged about 300-500 LeetCode problems before getting offers.  
+
+I made a general estimate that if I managed to finish 1 problem in 1 hour then I would need to do about **300 hours** worth of studying bare minimum. This equates to two months of studying. 
+
+Factor in the fact that I may be a bit slower than my peers then I would need to about 2.5 months of studying total with this crazy schedule. :') 
+
++ Goodbye Pokemon Go 
++ Goodbye Instagram 
++ Goodbye social life 
++ Goodbye recreational eating 
++ Goodbye blockchain side project development 
+
+
+
 
