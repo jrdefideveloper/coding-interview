@@ -6,6 +6,7 @@ These are typically never asked unless you're interviewing for a more junior pos
 I started my studies from here since I was super rusty on solving coding interview questions. 
 
 # *August 03, 2021* 
+
 Solved :pencil:
 
 + `two-number-sum` - trick for these type of problems is doing a one pass traversal by utilizing the complement and a hash table
@@ -27,6 +28,17 @@ Didn't get as much as I could done as I wanted. Still not writing the solutions 
 Also did some research on smart contract auditing with mythx/manticore. On my business side I've made some major advancements as well. I had a Coinbase interview for tomorrow but moving it out by a lot. 
 
 # *August 04, 2021* 
+
+Solved :pencil:
+
++ `tournament-winner` - This one is pretty easy. I can solve it in 20 minutes. But sifting through nested ArrayList kind of makes me type erraneous code at times. I noticed I'm fairly good at questions that involve utilizing a hashmap. Instead of traversing the HashMap after in another pass you can also try to use a variable that constantly points to the string. Although I think this makes it less readable... and you are also doing an additional lookup every time anyway. 
+
+```java 
+// Nifty way to traverse a hashmap for the largest value  in 1 line. 
+Collections.max(yourHashMap.entrySet(), Map.Entry.comparingByValue()).getKey(); 
+```
++ `non-constructible change` - 
+
 
 # Random things I learned 
 Difference between HashMap and HashSet 
