@@ -45,6 +45,16 @@ Watched :eyes:
 + Videos on Trees
 
 Evaluation :trollface: 
+Didn't do as much as I wanted. Distracted by my sister's new puppy. 
+Made a visual board of all the things I want out of life. I like looking at it. I think after 3 pomodoro cycles I should take a 30 minute break and then immediately get back into studying after that. Taking an extended break makes my mind to use to chilling.  
+
+# *August 06, 2021* 
+
+Solved :pencil:  
+
+
+
+
 
 # Random things I learned 
 Difference between HashMap and HashSet 
