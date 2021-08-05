@@ -38,8 +38,13 @@ Solved :pencil:
 Collections.max(yourHashMap.entrySet(), Map.Entry.comparingByValue()).getKey(); 
 ```
 + `non-constructible change` - this is actually really easy after you run through a couple examples on paper. It's kind of annoying that during the coding interviews you have to speak and type out all the examples. Something about writing it down on a notebook with a paper and pen is how I figure things out. Another interesting thing is the final result if every permutation of change could be made (1-lastCoin). Then the change you're missing is actually lastCoin + 1. Edge case I haven't thought of. grr. 
-+ `find-closest-value-in-bst` - I hate tree, graph, and linkedlist questions. idk why. 
++ `find-closest-value-in-bst` - It feels like these type of questions it's easy after you view the code but it's hard to write since recursion is difficult to visualize. 
 
+Watched :eyes:
+
++ Videos on Trees
+
+Evaluation :trollface: 
 
 # Random things I learned 
 Difference between HashMap and HashSet 
