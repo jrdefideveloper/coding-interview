@@ -61,7 +61,11 @@ Solved :pencil:
     return (start >= end) true ? (str.charAt(start) == str.charAt(end) && isPalindrome(str, start - 1));  
 ```
 + `remove-duplicates-from-linked-list` - These problems are fairly easy. Just got to be kind of careful about the next being null etc. Have to go through the examples a couple time and go through the pseudocode logic a couple times before saying I'm done with it 
-+ `binary-search` - 
++ `binary-search` - This is also really easy. But you just have to make sure that the right and left exclude mid itself or you'll run into issues when the result is in the last or first index. 
+```java 
+    right = mid - 1; 
+    left = mid + 1
+``` 
 
 Watched  :look: 
 
@@ -69,7 +73,7 @@ Watched  :look:
 
 Evaluation :trollface: 
 
-Problems today were more straightforward to me than previous days. 
+Problems today were more straightforward to me than previous days. I need to watch more videos on recursion. When the set up is complicated I start to get really confused. 
 
 
 # Random things I went over  
