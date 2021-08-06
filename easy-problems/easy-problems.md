@@ -67,7 +67,7 @@ Solved :pencil:
     left = mid + 1
 ``` 
 
-Watched  :look: 
+Watched :eyes: 
 
 + Videos on recursion setup 
 
