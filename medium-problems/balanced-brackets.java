@@ -48,7 +48,7 @@ class BalancedBrackets {
     }
 
     public static void main(String[] args) { 
-        String testcase = "([";  // This should result in true. 
+        String testcase = "([";  // This should result in false. 
         System.out.println(balancedBrackets(testcase));
     }
 }
