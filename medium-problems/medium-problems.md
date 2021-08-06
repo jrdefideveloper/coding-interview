@@ -16,4 +16,12 @@ In a 50 minute interview it's typicallly structured like
 
 Solved :pencil:  
 
-`bst-construction` - 
+`bst-construction` - searching, insertion, deletion. Deletion edge cases are difficult. If I were to have to do this in 15 minutes I'd get really pressured. Psyduck. 
+`validate-bst` - This is easier when every key is unique. Slight nuances depending on exact interview question when there should be <= >= for each node value in the true compared to the left and right subtrees. Iterative approach doesn't work as well when theres a equal to greater than case. Recursive code is so short and simple yet so hard to put together. 
+
+
+# Random thoughts 
+`booleanExpression ? expression1 : expression2` - Somehow I sometimes get the ? and : position confused... lol.  
+
+
+

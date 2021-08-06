@@ -1,4 +1,4 @@
-class Problem6 {
+class FindClosestValueInBSTProblem {
 
     static class BST {
         public int value;

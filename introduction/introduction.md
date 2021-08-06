@@ -5,7 +5,14 @@ Data structures and algorithms are the *tools* to transcribing these problems.
 
 Data structures and algorithms you should know in the context of coding interviews usual comprise of the following 
 
-+ linkedlist, tree, graph, array (2d very common), primitive values, sorting, searching,  dynamic programming
++ linkedlist
++ [tree](data-structures/trees.md) - often answered via *recursion* 
++ graph 
++ arrays (2d very common) 
++ primitive values 
++ sorting/searching 
++ dynamic programming
++ [recursion](recursion/recursion.md) 
 
 # What are data structures? 
 From [wiki](https://en.wikipedia.org/wiki/Data_structure) 

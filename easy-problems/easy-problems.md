@@ -51,9 +51,8 @@ Made a visual board of all the things I want out of life. I like looking at it. 
 # *August 06, 2021* 
 
 Solved :pencil:  
-
-
-
+`fibonacci` - Be careful with how the first number is defined. Some people define it slightly different. For instance n=1 may be 0 or 1 depending on the asker. It can be done with rudimentary DP or recursion. 
+`first-non-repeating-character` - 
 
 
 # Random things I learned 
