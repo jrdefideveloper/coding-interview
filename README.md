@@ -9,6 +9,7 @@ Also since I majored in an electrical engineering variant I may be seeing some o
 1. [Introduction](introduction/introduction.md)
 2. [Complexity](complexity-analysis/complexity.md)
 3. [Easy problems](easy-problems/easy-problems.md)
+4. [Medium problems](medium-problems/medium-problems.md)
 
 Bonus 
 + [Real problems](real-problems/real-problems.md)
