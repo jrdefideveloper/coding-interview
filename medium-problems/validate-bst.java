@@ -36,15 +36,15 @@ class Problem8 {
     public static boolean validateBstIterative(BST tree) {
         Stack<BST> stack = new Stack<BST>();
         BST currentNode = tree;
-        queue.add(tree); // first add the root node
+        stack.add(tree); // first add the root node
         int prev = Integer.MIN_VALUE;
 
-        while (!stack.isEmpty) {
+        while (!stack.isEmpty()) {
             if (currentNode.left != null) {
                 tree = tree.left;
-                queue.add(tree);
+                stack.add(tree);
             } else {
-                currentNode = queue.remove();
+                currentNode = stack.pop();
                 if (currentNode.value < prev)
                     return false;
                 prev = currentNode.value;

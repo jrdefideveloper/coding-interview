@@ -49,6 +49,13 @@ Factor in the fact that I may be a bit slower than my peers then I would need to
 # Music recommendations 
 [Lofi lofi lofi](https://www.youtube.com/watch?v=bmVKaAV_7-A)
 
+# Top Goals For Myself 
+
+1. Rank less than 100 on Leetcode  
+2. Finish all problems in AlgoExperts 
+3. Finish all problems in SystemExperts 
+4. Do over 300+ problems on leetcode. 
+
 
 
 

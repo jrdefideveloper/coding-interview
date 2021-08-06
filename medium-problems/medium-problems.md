@@ -12,12 +12,19 @@ In a 50 minute interview it's typicallly structured like
     + 5 summarazing your answer and going through your code. cleaning things up. "productionizing"? 
 3. 5 minutes of additional question asking "work culture, side projects, tech stack, challenges, etc" 
 
+Algoexperts has 55 medium level questions. Leetcode has an additional couple hundred to sift through. :cry: 
+
 # *August 06, 2021* 
 
 Solved :pencil:  
 
 + `bst-construction` - searching, insertion, deletion. Deletion edge cases are difficult. If I were to have to do this in 15 minutes I'd get really pressured. Psyduck. 
 + `validate-bst` - This is easier when every key is unique. Slight nuances depending on exact interview question when there should be <= >= for each node value in the true compared to the left and right subtrees. Iterative approach doesn't work as well when theres a equal to greater than case. Recursive code is so short and simple yet so hard to put together. 
++ `balanced-brackets` - This one is kind of fun. I consider an *easy* level rather than a medium. Have to be care of the case of `([`. The stack must be empty at the end of the string iteration to be considered a balanced string.  
+
+Evaluation :trollface: 
+
+Got to be careful of setting up the recursion functions well. I noticed I'm much better at iteration versus recursion. But I need to think of the fact that the first function call is basically at the bottom of the period and you have to keep adding to the call stack until we reach the top of the pyramid. Then we hand down the result to lower levels of the pyramid. In most cases reaching the bottom of the pyramid yet again is how the solution is derived. 
 
 
 # Random thoughts 
