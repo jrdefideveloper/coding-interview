@@ -45,17 +45,44 @@ Watched :eyes:
 + Videos on Trees
 
 Evaluation :trollface: 
+
 Didn't do as much as I wanted. Distracted by my sister's new puppy. 
 Made a visual board of all the things I want out of life. I like looking at it. I think after 3 pomodoro cycles I should take a 30 minute break and then immediately get back into studying after that. Taking an extended break makes my mind to use to chilling.  
 
 # *August 06, 2021* 
 
 Solved :pencil:  
-`fibonacci` - Be careful with how the first number is defined. Some people define it slightly different. For instance n=1 may be 0 or 1 depending on the asker. It can be done with rudimentary DP or recursion. 
-`first-non-repeating-character` - 
+
++ `fibonacci` - Be careful with how the first number is defined. Some people define it slightly different. For instance n=1 may be 0 or 1 depending on the asker. It can be done with rudimentary DP or recursion. 
++ `first-non-repeating-character` - pretty easy one. I like Hashmaps. 
++ `is-palindrome` - super easy. I like one pass problems. interesting to go through different types of solutions though. I still have problems with putting together the recursive version of the solution. 
+```java 
+    // This is just somehow really weird to me. 
+    return (start >= end) true ? (str.charAt(start) == str.charAt(end) && isPalindrome(str, start - 1));  
+```
++ 
+
+Watched  :look: 
+
++ Videos on recursion setup 
+
+Evaluation :trollface: 
+
+Problems today were more straightforward to me than previous days. 
 
 
-# Random things I learned 
+# Random things I went over  
+
+## Reverse string quickly 
+Some knickknacks that are important to remember 
+
+Quickly reverse a string. O(n) time complexity when you use regular string concatenation it's O(n^2) so be careful. 
+```java 
+StringBuilder sb = new StringBuilder(); 
+sb.reverse(); 
+```
+
+## Hashmap 
 Difference between HashMap and HashSet 
 HashSet is implementation of Set Interface which does not allow duplicate value. 
 The main thing is, objects that are stored in HashSet must override equals() for check for equality and hashCode() methods for no duplicate value are stored in our set.
