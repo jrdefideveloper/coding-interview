@@ -60,7 +60,8 @@ Solved :pencil:
     // This is just somehow really weird to me. 
     return (start >= end) true ? (str.charAt(start) == str.charAt(end) && isPalindrome(str, start - 1));  
 ```
-+ 
++ `remove-duplicates-from-linked-list` - These problems are fairly easy. Just got to be kind of careful about the next being null etc. Have to go through the examples a couple time and go through the pseudocode logic a couple times before saying I'm done with it 
++ `binary-search` - 
 
 Watched  :look: 
 
@@ -73,13 +74,19 @@ Problems today were more straightforward to me than previous days.
 
 # Random things I went over  
 
-## Reverse string quickly 
-Some knickknacks that are important to remember 
+## StringBuilder
+Some knickknacks that are important to remember concerning strings 
 
-Quickly reverse a string. O(n) time complexity when you use regular string concatenation it's O(n^2) so be careful. 
+Quickly reverse a string. O(n) time complexity when utilizing StringBuilder. But if you are use regular string concatenation it's O(n^2) so be careful. 
 ```java 
 StringBuilder sb = new StringBuilder(); 
 sb.reverse(); 
+```
+
+Deleting a last character from a StringBuilder quickly 
+```java 
+sb.deleteCharAt(sb.length() - 1); // Delete first character 
+sb.deleteCharAt(sb.length() - 2); // Delete second to last character. 
 ```
 
 ## Hashmap 
