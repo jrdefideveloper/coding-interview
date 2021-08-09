@@ -68,6 +68,13 @@ O(nodes)
 
 Trees that are very skewed however still result in **O(n)**
 
+# Popular problems 
+
++ is the tree a mirror of some other tree?  
++ running sum of branches 
++ is this tree a valid bst?  
+
+
 
 
 
