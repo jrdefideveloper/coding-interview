@@ -49,7 +49,7 @@ Evaluation :trollface:
 Didn't do as much as I wanted. Distracted by my sister's new puppy. 
 Made a visual board of all the things I want out of life. I like looking at it. I think after 3 pomodoro cycles I should take a 30 minute break and then immediately get back into studying after that. Taking an extended break makes my mind to use to chilling.  
 
-# *August 06, 2021* 
+# *August 05, 2021* 
 
 Solved :pencil:  
 
@@ -75,6 +75,39 @@ Evaluation :trollface:
 
 Problems today were more straightforward to me than previous days. I need to watch more videos on recursion. When the set up is complicated I start to get really confused. 
 
+# *August 06, 2021* 
+
+Solved :pencil:  
+
++ `branch-sums` - 
+
+Watched :eyes: 
+
++ Bloop 
+
+Evaluation :trollface: 
+
+Driving to San Francisco today. Kind of hectic and hard to study on the car. Random thought I had today about Pokemon Go, every trade only has a 2% of producing a lucky Pokemon so what kind of algorithm do they have running on some sort of UserTradeSession class? It also needs to take into consideration that a Pokemon from 2016 produces a guaranteed trade but either user can only have 10 Pokemon be guaranteed luckies. Business logic must just be a bunch of if statements. Some other edge cases I'm not taking into consideration as well for instance, best friends can also produce guaranteed luckies. 
+
+```java 
+// Pokemon constructor would possibly look like this 
+class UserPokemon { 
+
+    int cp, quickMove, chargeMove, level = 0;  
+
+    public UserPokemon(int id, PokeType type, boolean isLucky, boolean isShiny) { 
+
+    }
+
+    // More overloaded constructors here. 
+}
+``` 
+
+# *August 06, 2021* 
+
+Solved :pencil:  
+
++ `branch-sums` - 
 
 # Random things I went over  
 
