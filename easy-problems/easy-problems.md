@@ -103,7 +103,7 @@ class UserPokemon {
 }
 ``` 
 
-# *August 06, 2021* 
+# *August 10, 2021* 
 
 Solved :pencil:  
 
@@ -148,8 +148,13 @@ Deleting a last character from a StringBuilder quickly
 ```java 
 sb.deleteCharAt(sb.length() - 1); // Delete first character 
 sb.deleteCharAt(sb.length() - 2); // Delete second to last character. 
+
 ```
 
+## Stack 
+Can implement this with an ArrayList<Type>(); 
+
+Remember to remove at the last index e.g `stack.remove(stack.size() - 1);` Code looks a tad funky. 
 ## Hashmap 
 Difference between HashMap and HashSet 
 HashSet is implementation of Set Interface which does not allow duplicate value. 
