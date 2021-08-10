@@ -103,7 +103,7 @@ class UserPokemon {
 }
 ``` 
 
-# *August 10, 2021* 
+# *August 9, 2021* 
 
 Solved :pencil:  
 
@@ -139,7 +139,16 @@ Watched :eyes:
 
 Evaluation :trollface:  
 
-+ Honestly a bit dissapointed in my lack of progress today. Although my body condition is kind of terrible since I haven't slept more than 5-6 hours in the past 3 days. Still having a bit of difficulty putting slightly convoluted recursive functions together.  
++ Honestly a bit dissapointed in my lack of progress today. Although my body condition is kind of terrible since I haven't slept more than 5-6 hours in the past 3 days. Still having a bit of difficulty putting slightly convoluted recursive functions together. 
+
+# August 10, 2021 
+
+Solved :pencil: 
+
+Watched :eyes: 
+
+Evaluation :trollface: 
+
 
 # Random things I went over  
 
