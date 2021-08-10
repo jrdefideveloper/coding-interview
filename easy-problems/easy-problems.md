@@ -147,9 +147,9 @@ There are 12 easy problems left in AlgoExpert. I want to just complete these in 
 
 Solved :pencil: 
 
-+ `depth-first-search` - Awesome review. Somehow always forget dfs. Hard to put together a test case during the interview since the code looks funky to continually form the graph. 
-+ `minimum-waiting-time`
-+ `class-photos` 
++ `depth-first-search` - Awesome review. DFS code is really simple. Hard to put together a graph test case during the interview 
++ `minimum-waiting-time` - Easy to do. Made a little mistake on the totalWait in my solution. Separate solution without using any extra space is a neat math hack. 
++ `class-photos` - When you have an if logic its better to put it within the for loop instead of putting it out side and using two for loops. This question is quite easy as well. 
 + `tandem-bicycle` 
 + `product-sum` 
 + `find-three-largest-numbers` 
