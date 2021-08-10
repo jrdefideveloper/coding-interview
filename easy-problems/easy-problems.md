@@ -151,7 +151,7 @@ Solved :pencil:
 + `minimum-waiting-time` - Easy to do. Made a little mistake on the totalWait in my solution. Separate solution without using any extra space is a neat math hack. 
 + `class-photos` - When you have an if logic its better to put it within the for loop instead of putting it out side and using two for loops. This question is quite easy as well. 
 + `tandem-bicycle` - I was pretty good at this one. Made a mistake here and there. I wish I could do one pass coding and it just works as soon as you press 'Run code'. Lol. 
-+ `product-sum` 
++ `product-sum` - Had a bit of difficulty putting the recursion together... I tried to put sum as a third paramater but that was unnecessary. 
 + `find-three-largest-numbers` 
 + `bubble-sort` 
 + `insertion-sort` - 
