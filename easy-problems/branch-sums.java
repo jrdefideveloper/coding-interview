@@ -42,6 +42,8 @@ class BranchSums {
      * leftmost branch to right most branch. Branch = start at root all the way to
      * the leaf
      * 
+     * O(n) time | O(n) space Helper function for branchSums
+     * 
      * @param root
      * @return List<Integer>
      */

@@ -78,8 +78,32 @@ Problems today were more straightforward to me than previous days. I need to wat
 # *August 06, 2021* 
 
 Solved :pencil:  
+<!--  -->
++ `branch-sums` - This is actually fairly easy. I'm getting better at setting up recursive tree functions. Sometimes you almost have to just take a leap of faith that it'll work out. 
++ `node-depths` - I fumbled on putting together the recursive and iterative solution for this. I was trying to do a level order traversal with only a nodeDepth variable but I realized the nodeDepth wouldn't be able to properly track the depth as you traverse the tree. Utilizing an extra level variable is what I was missing. 
+```java 
+ public static int nodeDepthsIterativeSolution(BinaryTree root) { 
+        Queue<Level> queue = new LinkedList<Level>(); 
 
-+ `branch-sums` - 
+        queue.add(new Level(root, 0));   // first add root node with a level of 1
+        int totalDepth = 0; 
+
+        while (!queue.isEmpty()) { 
+            Level currentLevel = queue.remove();  
+            BinaryTree currentNode = currentLevel.root; 
+            int currentDepth = currentLevel.depth; 
+            if (currentLevel.root == null) continue; 
+            System.out.println("We are currently on node " + currentLevel.root.value + " level " + currentDepth); 
+            totalDepth += currentDepth; 
+            queue.add(new Level(currentNode.left, currentDepth + 1)); 
+            queue.add(new Level(currentNode.right, currentDepth + 1));   
+        }
+           
+        return totalDepth;  // the root doesn't count. 
+    }
+}
+``` 
++ Kind of cool that nodeDepths solution can be solved with both a queue and a stack. I made a terrible mistake of referencing a currentNode temp variable instead of the recent node from the queue. Easy to make bad mistakes like that. 
 
 Watched :eyes: 
 
