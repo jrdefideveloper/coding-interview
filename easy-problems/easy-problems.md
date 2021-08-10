@@ -139,11 +139,26 @@ Watched :eyes:
 
 Evaluation :trollface:  
 
-+ Honestly a bit dissapointed in my lack of progress today. Although my body condition is kind of terrible since I haven't slept more than 5-6 hours in the past 3 days. Still having a bit of difficulty putting slightly convoluted recursive functions together. 
++ Honestly a bit dissapointed in my lack of progress today. Although my body condition is kind of terrible since I haven't slept more than 5-6 hours in the past 3 days. Still having a bit of difficulty putting slightly convoluted recursive functions together. I need to sleep more so that I can use the full extent of my brain. 
 
 # August 10, 2021 
 
+There are 12 easy problems left in AlgoExpert. I want to just complete these in 1 day tmr. It's also spotlight hour for East Shellos in Pogo. Hmm. Decisions. Hope to solve all though. 
+
 Solved :pencil: 
+
++ `depth-first-search` - Awesome review. Somehow always forget dfs. Hard to put together a test case during the interview since the code looks funky to continually form the graph. 
++ `minimum-waiting-time`
++ `class-photos` 
++ `tandem-bicycle` 
++ `product-sum` 
++ `find-three-largest-numbers` 
++ `bubble-sort` 
++ `insertion-sort` - 
++ `selection-sort` - 
++ `caesar-cipher-encryptor` - 
++ `run-length-encoding` - 
++ `generate-document` -  
 
 Watched :eyes: 
 
