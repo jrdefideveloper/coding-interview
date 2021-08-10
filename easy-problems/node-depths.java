@@ -40,7 +40,7 @@ class NodeDepths {
     public static int nodeDepthsIterativeSolution(BinaryTree root) { 
         Queue<Level> queue = new LinkedList<Level>(); 
 
-        queue.add(new Level(root, 0));   // first add root node with a level of 1
+        queue.add(new Level(root, 0));   // first add root node with a level of 0
         int totalDepth = 0; 
 
         while (!queue.isEmpty()) { 

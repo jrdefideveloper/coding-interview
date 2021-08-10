@@ -133,6 +133,14 @@ Solved :pencil:
 ``` 
 + Kind of cool that nodeDepths solution can be solved with both a queue and a stack. I made a terrible mistake of referencing a currentNode temp variable instead of the recent node from the queue. Easy to make bad mistakes like that. 
 
+Watched :eyes: 
+
++ Nada 
+
+Evaluation :trollface:  
+
++ Honestly a bit dissapointed in my lack of progress today. Although my body condition is kind of terrible since I haven't slept more than 5-6 hours in the past 3 days. Still having a bit of difficulty putting slightly convoluted recursive functions together.  
+
 # Random things I went over  
 
 ## StringBuilder
