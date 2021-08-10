@@ -78,8 +78,36 @@ Problems today were more straightforward to me than previous days. I need to wat
 # *August 06, 2021* 
 
 Solved :pencil:  
-<!--  -->
-+ `branch-sums` - This is actually fairly easy. I'm getting better at setting up recursive tree functions. Sometimes you almost have to just take a leap of faith that it'll work out. 
+
++ Nada 
+
+Watched :eyes: 
+
++ Nada 
+
+Evaluation :trollface: 
+
+Driving to San Francisco today. Kind of hectic and hard to study on the car. Random thought I had today about Pokemon Go, every trade only has a 2% of producing a lucky Pokemon so what kind of algorithm do they have running on some sort of UserTradeSession class? It also needs to take into consideration that a Pokemon from 2016 produces a guaranteed trade but either user can only have 10 Pokemon be guaranteed luckies. Business logic must just be a bunch of if statements. Some other edge cases I'm not taking into consideration as well for instance, best friends can also produce guaranteed luckies. 
+
+```java 
+// Pokemon constructor would possibly look like this 
+class UserPokemon { 
+
+    int cp, quickMove, chargeMove, level = 0;  
+
+    public UserPokemon(int id, PokeType type, boolean isLucky, boolean isShiny) { 
+
+    }
+
+    // More overloaded constructors here. 
+}
+``` 
+
+# *August 06, 2021* 
+
+Solved :pencil:  
+
++ `branch-sums` This is actually fairly easy. I'm getting better at setting up recursive tree functions. Sometimes you almost have to just take a leap of faith that it'll work out. 
 + `node-depths` - I fumbled on putting together the recursive and iterative solution for this. I was trying to do a level order traversal with only a nodeDepth variable but I realized the nodeDepth wouldn't be able to properly track the depth as you traverse the tree. Utilizing an extra level variable is what I was missing. 
 ```java 
  public static int nodeDepthsIterativeSolution(BinaryTree root) { 
@@ -104,34 +132,6 @@ Solved :pencil:
 }
 ``` 
 + Kind of cool that nodeDepths solution can be solved with both a queue and a stack. I made a terrible mistake of referencing a currentNode temp variable instead of the recent node from the queue. Easy to make bad mistakes like that. 
-
-Watched :eyes: 
-
-+ Bloop 
-
-Evaluation :trollface: 
-
-Driving to San Francisco today. Kind of hectic and hard to study on the car. Random thought I had today about Pokemon Go, every trade only has a 2% of producing a lucky Pokemon so what kind of algorithm do they have running on some sort of UserTradeSession class? It also needs to take into consideration that a Pokemon from 2016 produces a guaranteed trade but either user can only have 10 Pokemon be guaranteed luckies. Business logic must just be a bunch of if statements. Some other edge cases I'm not taking into consideration as well for instance, best friends can also produce guaranteed luckies. 
-
-```java 
-// Pokemon constructor would possibly look like this 
-class UserPokemon { 
-
-    int cp, quickMove, chargeMove, level = 0;  
-
-    public UserPokemon(int id, PokeType type, boolean isLucky, boolean isShiny) { 
-
-    }
-
-    // More overloaded constructors here. 
-}
-``` 
-
-# *August 06, 2021* 
-
-Solved :pencil:  
-
-+ `branch-sums` - 
 
 # Random things I went over  
 
