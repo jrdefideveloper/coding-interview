@@ -150,7 +150,7 @@ Solved :pencil:
 + `depth-first-search` - Awesome review. DFS code is really simple. Hard to put together a graph test case during the interview 
 + `minimum-waiting-time` - Easy to do. Made a little mistake on the totalWait in my solution. Separate solution without using any extra space is a neat math hack. 
 + `class-photos` - When you have an if logic its better to put it within the for loop instead of putting it out side and using two for loops. This question is quite easy as well. 
-+ `tandem-bicycle` 
++ `tandem-bicycle` - I was pretty good at this one. Made a mistake here and there. I wish I could do one pass coding and it just works as soon as you press 'Run code'. Lol. 
 + `product-sum` 
 + `find-three-largest-numbers` 
 + `bubble-sort` 
@@ -163,6 +163,8 @@ Solved :pencil:
 Watched :eyes: 
 
 Evaluation :trollface: 
+
+Sometimes it feels like I type slower than I can think. And I type a lot of errors when I try to type quickly. I almost need to do some accurate typing practice so I can write an elegant solution with test cases in the alloted time. 
 
 
 # Random things I went over  
@@ -197,3 +199,22 @@ Basically Map Interface has two implementation classes HashMap and TreeMap the m
 HashMap allows null values and null keys.
 
 Both HashSet and HashMap are not synchronized.
+
+## Reverse an array 
+
+Java doesn't have convenient Array.sort method for reverse order, unlike with ArrayList<Integer> you can just use `Collections.reverseOrder` as the second parameter.  
+
+```java 
+   public static void reverseArrayOrder(int[] array) { 
+        int start = 0; 
+        int end = array.length - 1;  
+
+        while (start < end) { 
+            int temp = array[start]; 
+            array[start] = array[end]; 
+            array[end] = temp; 
+            start++;  // be careful about putting this 
+            end--; 
+        }
+    }
+``` 
