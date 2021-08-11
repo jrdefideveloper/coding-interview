@@ -141,7 +141,7 @@ Evaluation :trollface:
 
 + Honestly a bit dissapointed in my lack of progress today. Although my body condition is kind of terrible since I haven't slept more than 5-6 hours in the past 3 days. Still having a bit of difficulty putting slightly convoluted recursive functions together. I need to sleep more so that I can use the full extent of my brain. 
 
-# August 10, 2021 
+# *August 10, 2021*
 
 There are 12 easy problems left in AlgoExpert. I want to just complete these in 1 day tmr. It's also spotlight hour for East Shellos in Pogo. Hmm. Decisions. Hope to solve all though. 
 
@@ -153,12 +153,6 @@ Solved :pencil:
 + `tandem-bicycle` - I was pretty good at this one. Made a mistake here and there. I wish I could do one pass coding and it just works as soon as you press 'Run code'. Lol. 
 + `product-sum` - Had a bit of difficulty putting the recursion together... I tried to put sum as a third paramater but that was unnecessary. I'm embarassingly slow at simple math as well. I need to download some sort of fast math mind games app.. lol
 + `find-three-largest-numbers` - Practice running through code before clicking Run. Mentally find mistakes quickly. 
-+ `bubble-sort` 
-+ `insertion-sort` - 
-+ `selection-sort` - 
-+ `caesar-cipher-encryptor` - 
-+ `run-length-encoding` - 
-+ `generate-document` -  
 
 Watched :eyes: 
 
@@ -168,7 +162,26 @@ Sometimes it feels like I type slower than I can think. And I type a lot of erro
 
 I need to do more problems that have recursive solutions. Leetcode should have some sort of recursion tag hopefully. I need to download some sort of math mindgames iPhone app.  
 
-Did 6 easy questions and then went to do family stuff. 
+Did 6 easy questions and then went to do family stuff. Wasn't able to finish all the easy questions. 
+
+# *August 11, 2021*
+
+Solved :pencil: 
+
++ `bubble-sort` - Forgot all about this, lol. 
++ `insertion-sort` - Pretty easy sort as well. 
++ `selection-sort` - Reviewing more not so performant sorting methods. I feel like  I really only need to know quickSort and mergeSort. Possibly Radix. 
++ `caesar-cipher-encryptor` - 
++ `run-length-encoding` - 
++ `generate-document` -  
+
+Watched :eyes: 
+
+Nothing extra 
+
+Evaluation :trollface: 
+
+Sorting day finally. 
 
 
 # Random things I went over  

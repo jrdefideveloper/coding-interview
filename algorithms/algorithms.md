@@ -23,3 +23,65 @@ Most popular algorithms that may show in the interviews
         return array;
     }
 ```
+
+
+# Sorting (bad)
+
+## Bubble Sort 
+
+```java 
+public static int[] bubbleSort(int[] array) {
+    if (array.length == 0)
+        return new int[] {};
+    int counter = 0;
+    boolean isSorted = false;
+    while (!isSorted) {
+        isSorted = true;
+        for (int i = 0; i < array.length - 1 - counter; i++) {
+            if (array[i] > array[i + 1]) {
+                swap(array, i, i + 1);
+                isSorted = false;
+            }
+        }
+        counter++;
+    }
+    return array;
+}
+``` 
+
+## Insertion Sort
+
+```java 
+public static int[] insertionSort(int[] array) {
+    for (int i=1; i < array.length; i++) { 
+        int j = i; 
+        while (j > 0 && array[j] < array[j-1]) { 
+            swap(array, j, j-1);  
+            j-=1; 
+        }
+    }
+    return array;
+}
+``` 
+
+## Selection Sort 
+
+```java 
+public static int[] selectionSort(int[] array) {
+    // Sorted and unsorted sublist.
+    // In the beginning everything is unsorted.
+    int currentIdx = 0;
+    while (currentIdx < array.length - 1) {
+        // Find index of the smallest number
+        int smallestIdx = currentIdx;
+        for (int i = currentIdx + 1; i < array.length; i++) {
+            if (array[smallestIdx] > array[i]) {
+                smallestIdx = i;
+            }
+        }
+        swap(array, currentIdx, smallestIdx);
+        currentIdx++; // start of the unsorted sublist.
+    }
+    return array;
+}
+```
