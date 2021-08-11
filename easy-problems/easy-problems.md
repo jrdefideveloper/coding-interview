@@ -151,8 +151,8 @@ Solved :pencil:
 + `minimum-waiting-time` - Easy to do. Made a little mistake on the totalWait in my solution. Separate solution without using any extra space is a neat math hack. 
 + `class-photos` - When you have an if logic its better to put it within the for loop instead of putting it out side and using two for loops. This question is quite easy as well. 
 + `tandem-bicycle` - I was pretty good at this one. Made a mistake here and there. I wish I could do one pass coding and it just works as soon as you press 'Run code'. Lol. 
-+ `product-sum` - Had a bit of difficulty putting the recursion together... I tried to put sum as a third paramater but that was unnecessary. 
-+ `find-three-largest-numbers` 
++ `product-sum` - Had a bit of difficulty putting the recursion together... I tried to put sum as a third paramater but that was unnecessary. I'm embarassingly slow at simple math as well. I need to download some sort of fast math mind games app.. lol
++ `find-three-largest-numbers` - Practice running through code before clicking Run. Mentally find mistakes quickly. 
 + `bubble-sort` 
 + `insertion-sort` - 
 + `selection-sort` - 
@@ -165,6 +165,10 @@ Watched :eyes:
 Evaluation :trollface: 
 
 Sometimes it feels like I type slower than I can think. And I type a lot of errors when I try to type quickly. I almost need to do some accurate typing practice so I can write an elegant solution with test cases in the alloted time. 
+
+I need to do more problems that have recursive solutions. Leetcode should have some sort of recursion tag hopefully. I need to download some sort of math mindgames iPhone app.  
+
+Did 6 easy questions and then went to do family stuff. 
 
 
 # Random things I went over  
