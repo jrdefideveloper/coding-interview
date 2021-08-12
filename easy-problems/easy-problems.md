@@ -171,8 +171,8 @@ Solved :pencil:
 + `bubble-sort` - Forgot all about this, lol. 
 + `insertion-sort` - Pretty easy sort as well. 
 + `selection-sort` - Reviewing more not so performant sorting methods. I feel like  I really only need to know quickSort and mergeSort. Possibly Radix. 
-+ `caesar-cipher-encryptor` - 
-+ `run-length-encoding` - 
++ `caesar-cipher-encryptor` - This is kind of easy if you have the Ascii table in front of you. The tricky testcase is when the shift is > 26. 
++ `run-length-encoding` - Very easy conceptually but struggled putting together the solution that passes all test cases... sigh. But I guess this is what practice is for. I was attempting to use a slow and fast pointer but just keeping track of the prevChar and the currentChar was easy. Knowing how to put the proper if statement together to start the appending of the string gets tricky. 
 + `generate-document` -  
 
 Watched :eyes: 
