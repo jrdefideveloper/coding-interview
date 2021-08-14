@@ -42,6 +42,8 @@ Body condition kind of sucks again today. I don't know why I keep waking up much
 Solved :pencil: 
 
 + `three-number-sum` - I got this one conceptually but started to get confused during implementation. 
++ `smallest-difference` - I couldn't figure this one out. 
++ 
 
 Evaluation :trollface: 
 
@@ -51,4 +53,14 @@ Much better day today!
 `booleanExpression ? expression1 : expression2` - Somehow I sometimes get the ? and : position confused... lol.  
 
 
+## Adding numbers to ArrayList<Integer> quickly 
+```java
+ArrayList<Integer> array = new ArrayList<Integer>(Arrays.asList( 2, 1, 2, 2, 2, 3, 4, 2 ));
+```
+**Arrays.asList()** 
+
+## Setting numbers in an ArrayList 
+```java 
+array.set(index, element); // Index first, element second. You can't set with .get() 
+``` 
 
