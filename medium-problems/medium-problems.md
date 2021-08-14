@@ -43,11 +43,16 @@ Solved :pencil:
 
 + `three-number-sum` - I got this one conceptually but started to get confused during implementation. 
 + `smallest-difference` - I couldn't figure this one out. 
-+ 
++ `move-element-to-end` - not so bad as long as realize the pointers need to be set at start and end. I was trying to fast/slow pointer approach which is just, i, i+1; This doesn't work out so much.  
 
 Evaluation :trollface: 
 
 Much better day today! 
+
+# *August 14, 2021*  
+
++ `monotonic-array` - 
+
 
 # Random thoughts 
 `booleanExpression ? expression1 : expression2` - Somehow I sometimes get the ? and : position confused... lol.  
