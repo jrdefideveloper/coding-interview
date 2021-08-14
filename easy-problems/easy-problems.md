@@ -182,6 +182,16 @@ Evaluation :trollface:
 
 Sorting day finally. Still need to be better at putting solutions together without errors. Going to practice summarizing the solution every so often out loud. 
 
+# *August 12, 2021*
+
+Solved :pencil: 
+
++ `generate-document` - I love these type of problems. lol. 
+
+Evaluation :trollface: 
+
+Doing the last easy problem. Then moved onto medium problems. See mediums problems directory. 
+
 
 # Random things I went over  
 

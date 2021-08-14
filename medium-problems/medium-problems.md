@@ -27,6 +27,26 @@ Evaluation :trollface:
 Got to be careful of setting up the recursion functions well. I noticed I'm much better at iteration versus recursion. But I need to think of the fact that the first function call is basically at the bottom of the period and you have to keep adding to the call stack until we reach the top of the pyramid. Then we hand down the result to lower levels of the pyramid. In most cases reaching the bottom of the pyramid yet again is how the solution is derived. 
 
 
+# *August 12, 2021*
+
+Solved :pencil: 
+
++ Nada
+
+Evaluation :trollface: 
+
+Body condition kind of sucks again today. I don't know why I keep waking up much earlier than I have to and not being able to fall back asleep. 
+
+# *August 13, 2021*
+
+Solved :pencil: 
+
++ `three-number-sum` - I got this one conceptually but started to get confused during implementation. 
+
+Evaluation :trollface: 
+
+Much better day today! 
+
 # Random thoughts 
 `booleanExpression ? expression1 : expression2` - Somehow I sometimes get the ? and : position confused... lol.  
 
