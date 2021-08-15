@@ -51,7 +51,13 @@ Much better day today!
 
 # *August 14, 2021*  
 
-+ `monotonic-array` - 
++ `monotonic-array` - This one is pretty easy actually. 
++ `spiral-traverse` - This is really great practice for me since I'm surprisingly bad at 2 for loop logic. It's so easy to see visually but tracking all these pointers makes me so sleepy. I'm almost fell asleep 10 times doing this, omg. 
++ `` - 
+
+Evaluation :trollface: 
+
+Got really distracted by Community Eevee Day in Pogo. Also I think I slept 5 hours last night which has rendered me basically braindead. 
 
 
 # Random thoughts 
