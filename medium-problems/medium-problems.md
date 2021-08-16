@@ -62,16 +62,24 @@ Got really distracted by Community Eevee Day in Pogo. Also I think I slept 5 hou
 
 # *August 15, 2021* 
 
-+ `longest-peak` - The next day it still doesn't make sense to me. :()
-+ `array of products` - Can't use division when it's the obvious thing to do hmm. Utilizing extra space with a left and right array. And then optimizing further was the solution. O(n^2) solution takes 2 seconds but figuring out 1 pass solution took me quite a while. 
+1.  `longest peak` - The next day it still doesn't make sense to me. :()
+2. `array of products` - Can't use division when it's the obvious thing to do hmm. Utilizing extra space with a left and right array. And then optimizing further was the solution. O(n^2) solution takes 2 seconds but figuring out 1 pass solution took me quite a while. 
+3.  `first duplicate value` -  Optimal space complexity is interesting.... because you utilize negative numbers since you know the number must be between [1..n] using a negative number to use the array to double as a hashMap. The solution with HashMap is easier to understand. 
+4.  `` - 
+
 
 Evaluation :trollface: 
 
 My back burns from constantly sitting down in wrong posture. Also my roommates keep playing TikTok at maxmimum volume so it's hard to focus. Going to invest in better noise cancelling headphones 
 
 # Random thoughts 
-`booleanExpression ? expression1 : expression2` - Somehow I sometimes get the ? and : position confused... lol.  
 
+## Tools to dominate certain questions 
+
+Think in terms of what utilizing a negative number can do you for you when the input is gauranteed to be a certain subset that is positive** This is how you can remember data without utilizing a hashmap. 
+
+## Ternary Operator. 
+`booleanExpression ? expression1 : expression2` - Somehow I sometimes get the ? and : position confused... lol.  
 
 ## Adding numbers to ArrayList<Integer> quickly 
 ```java
