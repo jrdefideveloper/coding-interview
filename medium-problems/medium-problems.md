@@ -53,12 +53,21 @@ Much better day today!
 
 + `monotonic-array` - This one is pretty easy actually. 
 + `spiral-traverse` - This is really great practice for me since I'm surprisingly bad at 2 for loop logic. It's so easy to see visually but tracking all these pointers makes me so sleepy. I'm almost fell asleep 10 times doing this, omg. 
-+ `` - 
++ `longest-peak` - This problem is kind of confusing 
 
 Evaluation :trollface: 
 
 Got really distracted by Community Eevee Day in Pogo. Also I think I slept 5 hours last night which has rendered me basically braindead. 
 
+
+# *August 15, 2021* 
+
++ `longest-peak` - The next day it still doesn't make sense to me. :()
++ `` - 
+
+Evaluation :trollface: 
+
+My back burns from constantly sitting down in wrong posture. Also my roommates keep playing TikTok at maxmimum volume so it's hard to focus. Going to invest in better noise cancelling headphones 
 
 # Random thoughts 
 `booleanExpression ? expression1 : expression2` - Somehow I sometimes get the ? and : position confused... lol.  
