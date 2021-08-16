@@ -63,7 +63,7 @@ Got really distracted by Community Eevee Day in Pogo. Also I think I slept 5 hou
 # *August 15, 2021* 
 
 + `longest-peak` - The next day it still doesn't make sense to me. :()
-+ `` - 
++ `array of products` - Can't use division when it's the obvious thing to do hmm. Utilizing extra space with a left and right array. And then optimizing further was the solution. O(n^2) solution takes 2 seconds but figuring out 1 pass solution took me quite a while. 
 
 Evaluation :trollface: 
 
