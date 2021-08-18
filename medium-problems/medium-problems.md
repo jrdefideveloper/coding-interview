@@ -62,15 +62,22 @@ Got really distracted by Community Eevee Day in Pogo. Also I think I slept 5 hou
 
 # *August 15, 2021* 
 
-1.  `longest peak` - The next day it still doesn't make sense to me. :()
+1.  `longest peak` - The next day it still doesn't make sense to me. :( Going to move on for now. 
 2. `array of products` - Can't use division when it's the obvious thing to do hmm. Utilizing extra space with a left and right array. And then optimizing further was the solution. O(n^2) solution takes 2 seconds but figuring out 1 pass solution took me quite a while. 
-3.  `first duplicate value` -  Optimal space complexity is interesting.... because you utilize negative numbers since you know the number must be between [1..n] using a negative number to use the array to double as a hashMap. The solution with HashMap is easier to understand. 
-4.  `` - 
-
+3.  `first duplicate value` -  Optimal space complexity is interesting.... because you utilize negative numbers since you know the number must be between `[1..n]` using a negative number to use the array to double as a hashMap. The solution with HashMap is easier to understand. 
 
 Evaluation :trollface: 
 
 My back burns from constantly sitting down in wrong posture. Also my roommates keep playing TikTok at maxmimum volume so it's hard to focus. Going to invest in better noise cancelling headphones 
+
+# *August 16, 2021* 
+
+Day off. 
+
+# *August 17, 2021* 
+
+1. `merge overlapping variables` -  Very difficult for me. Will review again later
+2. `BST Traversal` - Easy one actually 
 
 # Random thoughts 
 
@@ -91,4 +98,10 @@ ArrayList<Integer> array = new ArrayList<Integer>(Arrays.asList( 2, 1, 2, 2, 2, 
 ```java 
 array.set(index, element); // Index first, element second. You can't set with .get() 
 ``` 
+
+## Arrays sort with directions 
+
+```java
+Arrays.sort(sortedIntervals, (a, b) -> Integer.compare(a[0], b[0]));  
+```
 
