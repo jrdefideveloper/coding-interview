@@ -79,7 +79,7 @@ Day off.
 1. `merge overlapping variables` -  Very difficult for me. Will review again later
 2. `BST Traversal` - Easy one actually 
 
-# *August 17, 2021* 
+# *August 18, 2021* 
 
 Focused on working on my businesses. 
 
@@ -87,8 +87,14 @@ Focused on working on my businesses.
 1. `Min Height BST` -  Easy when you follow the solution but hard to put the code together. Still very weak at recursion + trees. 
 2. `Find Kth Largest Value In BST` - This one is actually kind of easy. 
 3. `Reconstruct BST` - This one is really difficult 
-4. 
-5. 
+
+# *August 25, 2021* 
+
+Darn I did no studying for 5 consecutive days. This is why they say building momentum is so important. 
+
+1.`Invert Binary Tree` - pretty easy after you see the solution for yourself, sadly difficult to put together on the spot. 
+2. `Binary Tree Diameter` - 
+
 # Random thoughts 
 
 ## Tools to dominate certain questions 
