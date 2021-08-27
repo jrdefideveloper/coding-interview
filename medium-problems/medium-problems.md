@@ -103,7 +103,8 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
  # *August 27, 2021* 
 
  1. `Max subset of non adjacent numbers`  - This problem is quite interesting 
- 2. 
+ 2. `Number of ways to make change` - Another dp interesting question. The denoms needs to be the outer loop and amounts in inner loop. 
+ 3. 
 
 # Random thoughts 
 
