@@ -86,8 +86,8 @@ Focused on working on my businesses.
 # *August 19, 2021*
 1. `Min Height BST` -  Easy when you follow the solution but hard to put the code together. Still very weak at recursion + trees. 
 2. `Find Kth Largest Value In BST` - This one is actually kind of easy. 
-3. `Reconstruct BST` - This one is really difficult 
-
+3. `
+Reconstruct BST` - This one is really difficult 
 # *August 25, 2021* 
 
 Darn I did no studying for 5 consecutive days. This is why they say building momentum is so important. 
