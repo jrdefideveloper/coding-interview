@@ -93,7 +93,12 @@ Focused on working on my businesses.
 Darn I did no studying for 5 consecutive days. This is why they say building momentum is so important. 
 
 1.`Invert Binary Tree` - pretty easy after you see the solution for yourself, sadly difficult to put together on the spot. 
-2. `Binary Tree Diameter` - 
+2. `Binary Tree Diameter` - Difficult 
+
+# *August 26, 2021* 
+
+1. `Find successor` - Not too bad if you just do an in order traversal and use extra space. 
+2. 
 
 # Random thoughts 
 
