@@ -86,7 +86,7 @@ Focused on working on my businesses.
 # *August 19, 2021*
 1. `Min Height BST` -  Easy when you follow the solution but hard to put the code together. Still very weak at recursion + trees. 
 2. `Find Kth Largest Value In BST` - This one is actually kind of easy. 
-3. `
+
 Reconstruct BST` - This one is really difficult 
 # *August 25, 2021* 
 
@@ -98,7 +98,12 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
 # *August 26, 2021* 
 
 1. `Find successor` - Not too bad if you just do an in order traversal and use extra space. 
-2. 
+2. `Height Balanced Tree` - This is kind of similar to Binary Tree diameter actually.  
+ 
+ # *August 27, 2021* 
+
+ 1. `Max subset of non adjacent numbers`  - This problem is quite interesting 
+ 2. 
 
 # Random thoughts 
 

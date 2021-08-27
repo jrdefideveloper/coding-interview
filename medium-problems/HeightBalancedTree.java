@@ -20,6 +20,11 @@ public class HeightBalancedTree {
         }
     }
 
+    
+    /** 
+     * @param tree
+     * @return TreeInfo
+     */
     public TreeInfo getTreeInfo(BinaryTree tree) {
         if (tree == null) {
             return new TreeInfo(true, -1);
@@ -35,6 +40,12 @@ public class HeightBalancedTree {
         return new TreeInfo(isBalanced, height);
     }
 
+    
+    /** 
+     * O(n) time | O(h) space
+     * @param tree
+     * @return boolean
+     */
     public boolean heightBalancedBinaryTree(BinaryTree tree) {
         return getTreeInfo(tree).isBalanced;
     }
