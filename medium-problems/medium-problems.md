@@ -104,7 +104,13 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
 
  1. `Max subset of non adjacent numbers`  - This problem is quite interesting 
  2. `Number of ways to make change` - Another dp interesting question. The denoms needs to be the outer loop and amounts in inner loop. 
- 3. 
+ 3. `Min number of coins to make change` - Very similar to the last problem 
+
+ # *August 28, 2021* 
+
+ 1. `Levenshtein Distance` - Another difficult DP program. The pattern is really difficult to come up with on the spot. Idk who is able to do this without coming across the problem before 
+ 2. `` -
+ 3. `` - 
 
 # Random thoughts 
 
