@@ -1,8 +1,6 @@
 import java.util.*;
 
 class FindSuccessor {
-
-    // This is an input class. Do not edit.
     static class BinaryTree {
         public int value;
         public BinaryTree left = null;
@@ -14,6 +12,12 @@ class FindSuccessor {
         }
     }
 
+    
+    /** 
+     * In order traversal is left visit right 
+     * @param tree
+     * @param array
+     */
     public static void inOrderTraverse(BinaryTree tree, List<BinaryTree> array) {
         if (tree.left != null)
             inOrderTraverse(tree.left, array);
@@ -22,43 +26,58 @@ class FindSuccessor {
             inOrderTraverse(tree.right, array);
     }
 
+    
+    /** 
+     * O(n) time | O(n) space
+     * @param tree
+     * @param node
+     * @return BinaryTree
+     */
     public BinaryTree findSuccessor(BinaryTree tree, BinaryTree node) {
         ArrayList<BinaryTree> listNodes = new ArrayList<BinaryTree>();
-
         inOrderTraverse(tree, listNodes);
-
         for (BinaryTree binaryTree : listNodes) {
             System.out.println(binaryTree.value);
         }
-
         int currentIndex = listNodes.indexOf(node);
-
         return (currentIndex == -1 || currentIndex == listNodes.size() - 1) ? null : listNodes.get(currentIndex + 1);
     }
 
+    
+    /** 
+     * @param node
+     * @return BinaryTree
+     */
     public BinaryTree getRightMostParentNode(BinaryTree node) {
-
         BinaryTree currentNode = node;
-
         while (currentNode.parent != null && currentNode.parent.right == currentNode) {
             currentNode = currentNode.parent;
         }
-
         return currentNode.parent;
     }
 
-    // Case in which you need to return the left most child of the right subtree
+    
+    /** 
+     * Case in which you need to return the left most child of the right subtree
+     * @param node
+     * @return BinaryTree
+     */
     public BinaryTree getLeftMostChildNode(BinaryTree node) {
         BinaryTree currentNode = node;
-
         while (currentNode.left != null) {
             currentNode = currentNode.left;
         }
-
         return currentNode;
     }
 
-    // O(h) time | O(1) space 
+    
+    /** 
+     * O(h) time | O(1) space 
+     * Shortcut of the solution above. 
+     * @param tree
+     * @param node
+     * @return BinaryTree
+     */
     public BinaryTree findSuccessorFaster(BinaryTree tree, BinaryTree node) {
         if (node.right != null)
             return getLeftMostChildNode(node.right);

@@ -97,7 +97,7 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
 
 # *August 26, 2021* 
 
-1. `Find successor` - Not too bad if you just do an in order traversal and use extra space. 
+1. `Find successor` - Not too bad if you just do an in order traversal and use extra space. Other solution is kind of funky knowing when to get left most child node or right most parent node. 
 2. `Height Balanced Tree` - This is kind of similar to Binary Tree diameter actually.  
  
  # *August 27, 2021* 
@@ -108,7 +108,7 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
 
  # *August 28, 2021* 
 
- 1. `Levenshtein Distance` - Another difficult DP program. The pattern is really difficult to come up with on the spot. Idk who is able to do this without coming across the problem before 
+ 1. `Levenshtein Distance` - Another difficult DP program. The pattern is really difficult to come up with on the spot. Idk who is able to do this without coming across the problem before. I'm going to skip the space optimization because it looks too crazy. 
  2. `` -
  3. `` - 
 
