@@ -117,7 +117,8 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
  I wonder who finds these types of problems enjoyable... 
 
  # *August 29, 2021* 
-1. `Single cycle check` - 
+1. `Single cycle check` - Made a mistake with using currentIdx to track number of elements visited. Be careful. 
+2. `Breadth-first Search` - 
 
 
 # Random thoughts 
