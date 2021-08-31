@@ -111,9 +111,14 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
  1. `Levenshtein Distance` - Another difficult DP program. The pattern is really difficult to come up with on the spot. Idk who is able to do this without coming across the problem before. I'm going to skip the space optimization because it looks too crazy. 
  2. `Number of ways to traverse a graph` - Recursion, DP, or Permutation trick. This problem is very difficult for me as well. It's hard to put the DP formula together. 
  3. `Kadane's algorithm` - O(n) time  not so bad. 
- 4. 
 
  (Also reviewed some prior problems. Find closest BST tree node etc. I need to be doing more reviews frequently.)
+
+ I wonder who finds these types of problems enjoyable... 
+
+ # *August 29, 2021* 
+1. `Single cycle check` - 
+
 
 # Random thoughts 
 
