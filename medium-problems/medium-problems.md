@@ -116,9 +116,12 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
 
  I wonder who finds these types of problems enjoyable... 
 
- # *August 29, 2021* 
+ # *August 30, 2021* 
 1. `Single cycle check` - Made a mistake with using currentIdx to track number of elements visited. Be careful. 
-2. `Breadth-first Search` - 
+2. `Breadth-first Search` -  This is basically just level order sort. These kind of questions pop up a lot. 
+
+# *August 31, 2021* 
+1. `River sizes` - I have issues with these types of problems. 
 
 
 # Random thoughts 
