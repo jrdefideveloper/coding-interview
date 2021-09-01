@@ -122,8 +122,8 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
 
 # *August 31, 2021* 
 1. `River sizes` - I have issues with these types of problems. 
-2. `Youngest common ancestor` - Kind of easy kind of hard at the same time 
-3. `Lowest common manager` - 
+2. `Youngest common ancestor` - Kind of easy kind of hard at the same time. Remember to write helper functions and don't repeat yourself. 
+3. `Lowest common manager` - very difficult to implement and visualize 
 
 
 # Random thoughts 
