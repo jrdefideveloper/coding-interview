@@ -125,6 +125,15 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
 2. `Youngest common ancestor` - Kind of easy kind of hard at the same time. Remember to write helper functions and don't repeat yourself. 
 3. `Lowest common manager` - very difficult to implement and visualize (hard) problem
 
+# *September 01, 2021* 
+
+Focused on business and interviews. Started Ethereum dApp Programming course. 
+
+# *September 01, 2021* 
+
+1. `Remove Islands` - 
+
+Reviewed Lowest Common Manager and River Sizes again 
 
 # Random thoughts 
 
