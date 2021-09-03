@@ -127,14 +127,20 @@ Darn I did no studying for 5 consecutive days. This is why they say building mom
 
 # *September 01, 2021* 
 
-Focused on business and interviews. Started Ethereum dApp Programming course. 
+Focused on business and interviews. Started Ethereum dApp Programming course. Regenerative art NFTs can be created completely from CSS. The presentation is hidden in the gene bits. 
 
-# *September 01, 2021* 
+# *September 02, 2021* 
 
 1. `Remove Islands` - Should have had more faith in myself. My solution was right the first time. This problem is nearly identical to River Sizes. 
-2. 
+2. `Cycle in a graph` - 
 
 Reviewed Lowest Common Manager and River Sizes again 
+
+# *September 03, 2021* 
+
+1. `Cycles in a graph` - Convuluted implementation 
+
+
 
 # Random thoughts 
 
