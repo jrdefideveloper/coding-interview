@@ -131,7 +131,8 @@ Focused on business and interviews. Started Ethereum dApp Programming course.
 
 # *September 01, 2021* 
 
-1. `Remove Islands` - 
+1. `Remove Islands` - Should have had more faith in myself. My solution was right the first time. This problem is nearly identical to River Sizes. 
+2. 
 
 Reviewed Lowest Common Manager and River Sizes again 
 
