@@ -142,6 +142,12 @@ Reviewed Lowest Common Manager and River Sizes again
 2. `Minimum passes of matrix` - How is this not a hard problem xD 
 3. `Task Assignment` - I got the solution myself! Finally! 
 4. `Valid Starting City` - Greedy algorithm 
+5. `Min Heap Construction` -  Min heap, we meet again 
+
+# *September 04, 2021* 
+
+1. `Min Heap Construction` - Pretty easy to understand. Although I highly doubt anyone would straight up ask an interviewee to write a minHeap class from scratch. This is so academic that only someonone that recently took a Computer Science 101 class would remember. 
+2. `Linked List Construction` - 
 
 
 # Random thoughts 

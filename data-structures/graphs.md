@@ -15,7 +15,7 @@ City maps
 + Acyclic graph - no cycles 
 + adjacency list - nodes with list of it's edges 
 
-# Traversak 
+# Traverse 
 
 O(V + E) - Traversing every vertex and every edge! 
 

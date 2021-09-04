@@ -1,4 +1,4 @@
-public class ArrayyOfProducts {
+public class ArrayOfProducts {
 
     
     /** 
