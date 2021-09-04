@@ -21,4 +21,9 @@ O(V + E) - Traversing every vertex and every edge!
 
 More graph problems you do and more traversals you do the more intuitive everything becomes 
 
+## Graph traversal continued 
+
++ Breadth first traversal (iteration with a queue usually)
++ Depth first traversal (recursion)
+
 
