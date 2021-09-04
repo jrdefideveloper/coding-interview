@@ -139,7 +139,9 @@ Reviewed Lowest Common Manager and River Sizes again
 # *September 03, 2021* 
 
 1. `Cycles in a graph` - Convuluted implementation 
-
+2. `Minimum passes of matrix` - How is this not a hard problem xD 
+3. `Task Assignment` - I got the solution myself! Finally! 
+4. 
 
 
 # Random thoughts 
