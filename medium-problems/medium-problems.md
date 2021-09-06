@@ -149,6 +149,12 @@ Reviewed Lowest Common Manager and River Sizes again
 1. `Min Heap Construction` - Pretty easy to understand. Although I highly doubt anyone would straight up ask an interviewee to write a minHeap class from scratch. This is so academic that only someonone that recently took a Computer Science 101 class would remember. 
 2. `Linked List Construction` - 
 
+Focused more on system design tips and questions. 
+
+# *September 05, 2021* 
+
+1. `Linked List Construction` - Not bad. Great review. 
+
 
 # Random thoughts 
 
