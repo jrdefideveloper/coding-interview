@@ -155,6 +155,10 @@ Focused more on system design tips and questions.
 
 1. `Linked List Construction` - Not bad. Great review. 
 
+# *September 09, 2021* 
+
+1. `Remove Kth Node From End` - Not bad
+
 
 # Random thoughts 
 
