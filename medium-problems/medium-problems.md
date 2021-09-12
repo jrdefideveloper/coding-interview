@@ -159,6 +159,10 @@ Focused more on system design tips and questions.
 
 1. `Remove Kth Node From End` - Not bad
 
+# *September 10, 2021* 
+Focused on OpenZeppelin documentation and solidity contract writing.
+# *September 11, 2021*  
+1. `Sum of linked lists` - Not bad as well. 
 
 # Random thoughts 
 
@@ -185,4 +189,13 @@ array.set(index, element); // Index first, element second. You can't set with .g
 ```java
 Arrays.sort(sortedIntervals, (a, b) -> Integer.compare(a[0], b[0]));  
 ```
+
+## Random math 
+
+Remember when you are adding digits together the old school way column by column 
+
+`carry = (sum of column) / 10` 
+`actual column result value = (sum of column) % 10`  
+
+Kind of sad how I forgot these basics and get confused every now and then... lol
 
