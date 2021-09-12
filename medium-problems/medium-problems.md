@@ -195,6 +195,7 @@ Arrays.sort(sortedIntervals, (a, b) -> Integer.compare(a[0], b[0]));
 Remember when you are adding digits together the old school way column by column 
 
 `carry = (sum of column) / 10` 
+
 `actual column result value = (sum of column) % 10`  
 
 Kind of sad how I forgot these basics and get confused every now and then... lol
