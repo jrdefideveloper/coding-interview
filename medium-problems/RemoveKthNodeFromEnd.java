@@ -1,6 +1,6 @@
 public class RemoveKthNodeFromEnd {
 
-    // O(n) time | O(1) space 
+    // O(n) time | O(1) space fpr
     public static void removeKthNodeFromEnd(LinkedList head, int k) {
         // First pass you move (k) over
         int counter = 1;

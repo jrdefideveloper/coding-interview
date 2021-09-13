@@ -163,6 +163,7 @@ Focused more on system design tips and questions.
 Focused on OpenZeppelin documentation and solidity contract writing.
 # *September 11, 2021*  
 1. `Sum of linked lists` - Not bad as well. 
+2. `Permutations` - 
 
 # Random thoughts 
 
