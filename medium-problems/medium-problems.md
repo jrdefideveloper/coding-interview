@@ -165,6 +165,19 @@ Focused on OpenZeppelin documentation and solidity contract writing.
 1. `Sum of linked lists` - Not bad as well. 
 2. `Permutations` - 
 
+# *September 13, 2021* 
+1. `Permutations` 
+```
+helper(arr, perm, perms): 
+// if we run out of numbers then we picked all the numbers already
+
+
+```
+
+# *September 14, 2021* 
+1. `Permutations` - This question is so weird and annoying. O(n * n!) complexity 
+2. 
+
 # Random thoughts 
 
 ## Tools to dominate certain questions 
