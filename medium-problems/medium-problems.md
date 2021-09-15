@@ -176,7 +176,7 @@ helper(arr, perm, perms):
 
 # *September 14, 2021* 
 1. `Permutations` - This question is so weird and annoying. O(n * n!) complexity 
-2. 
+2. `Power set` - 
 
 # Random thoughts 
 
