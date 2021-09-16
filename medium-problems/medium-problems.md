@@ -182,7 +182,12 @@ helper(arr, perm, perms):
 # *September 15, 2021* 
 1. `Power set` -  Not bad
 2. `Phone Number Mneumonics` - Not bad
-3. `Staircase Traversal` - I feel like I've seen this before. 
+3. `Staircase Traversal` - I feel like I've seen this before. I am very weak at DP, I shall practice more of these type of problems. 
+
+
+# *September 16, 2021* 
+1. `Search in sorted matrix` - I'm much better at dealing with matrix related problems now. 
+
 # Random thoughts 
 
 ## Tools to dominate certain questions 
