@@ -187,7 +187,7 @@ helper(arr, perm, perms):
 
 # *September 16, 2021* 
 1. `Search in sorted matrix` - I'm much better at dealing with matrix related problems now. 
-
+2. `Three number sort` - Not too bad. I think searching problems are much easier for me than recursion and random permutation type problems that a re little bit more math veering. 
 # Random thoughts 
 
 ## Tools to dominate certain questions 
