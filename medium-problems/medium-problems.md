@@ -198,7 +198,7 @@ helper(arr, perm, perms):
 
 1. `Leetcode: Letter Combinations of a Phone Number` - Reviewing this problem again... still kind of suck because it's hard to put together recursive calls for me that are overly complicated. 
 2. `Leetcode: Bus routes` - Very difficult  
-3. `` - 
+3. `Next Greater Element` - This is just a really strange problem to me. You can travel through an array in a circular fashion twice by multiplying array.length * 2 and then using modulus to get the proper index. 
 
 
 # Random thoughts 
