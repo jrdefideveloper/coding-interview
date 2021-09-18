@@ -186,14 +186,30 @@ helper(arr, perm, perms):
 
 
 # *September 16, 2021* 
+
 1. `Search in sorted matrix` - I'm much better at dealing with matrix related problems now. 
 2. `Three number sort` - Not too bad. I think searching problems are much easier for me than recursion and random permutation type problems that a re little bit more math veering. 
 3. `Min max stack construction` - Not bad 
+4. `Sunset Views` - Not bad 
+5. `Sort Stack` - This one makes my brain hurt. My weakness is still recursion because you need to think the opposite way and it hurts my head to do so. 
+6. `Next Greater Element` - Headache 
+
+# *September 17, 2021* 
+
+1. `Leetcode: Letter Combinations of a Phone Number` - Reviewing this problem again... still kind of suck because it's hard to put together recursive calls for me that are overly complicated. 
+2. `Leetcode: Bus routes` - Very difficult  
+3. `` - 
+
+
 # Random thoughts 
 
 ## Tools to dominate certain questions 
 
+When working with arrays think about whether or not starting at the end or the middle of the list helps you instead only thinking about index 0. 
+
 Think in terms of what utilizing a negative number can do you for you when the input is gauranteed to be a certain subset that is positive** This is how you can remember data without utilizing a hashmap. 
+
+For `recursive` problems often think about how a final result is the result of the addition of the previous 2 results or possibly all of the previous results. 
 
 ## Ternary Operator. 
 `booleanExpression ? expression1 : expression2` - Somehow I sometimes get the ? and : position confused... lol.  
