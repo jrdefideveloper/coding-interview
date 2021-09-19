@@ -67,7 +67,6 @@ public class RiverSizes {
     public static void main(String[] args) {
         int[][] input = { { 1, 0, 0, 1, 0 }, { 1, 0, 1, 0, 0 }, { 0, 0, 1, 0, 1 }, { 1, 0, 1, 0, 1 },
                 { 1, 0, 1, 1, 0 }, };
-        int[] expected = { 1, 2, 2, 2, 5 };
         List<Integer> output = riverSizes(input);
         Collections.sort(output);
         for (Integer num : output) {

@@ -200,6 +200,12 @@ helper(arr, perm, perms):
 2. `Leetcode: Bus routes` - Very difficult  
 3. `Next Greater Element` - This is just a really strange problem to me. You can travel through an array in a circular fashion twice by multiplying array.length * 2 and then using modulus to get the proper index. 
 
+# *September 18, 2021* 
+
+1. `Longest Palindromic Substring` - Naive solution -> Get all substrings and then find the longest Palindrome. However this is O(n^3) where n is the length of the string. Optimal solution was O(n^2) I was able to figure it out myself but setting the indexes against odd and even it really error prone. 
+2. `Group Anagrams` - 
+
+
 
 # Random thoughts 
 
