@@ -203,11 +203,21 @@ helper(arr, perm, perms):
 # *September 18, 2021* 
 
 1. `Longest Palindromic Substring` - Naive solution -> Get all substrings and then find the longest Palindrome. However this is O(n^3) where n is the length of the string. Optimal solution was O(n^2) I was able to figure it out myself but setting the indexes against odd and even it really error prone. 
-2. `Group Anagrams` - 
+2. `Group Anagrams` - This one is actually pretty straight forward. 
+3. `Valid Ip Addresses` - Interesting once you figure it out, but maintaining the proper indices for this is extra difficult.  
+
+
+# *September 19, 2021*  
+
+1. `Reverse words in a string` -  
+
 
 
 
 # Random thoughts 
+
+1. Remember there is no way to concatenate a group of strings together. Have to write it yourself.   
+2. Writing bruteforce when you can't think of a better solution is better than nothing. 
 
 ## Tools to dominate certain questions 
 
