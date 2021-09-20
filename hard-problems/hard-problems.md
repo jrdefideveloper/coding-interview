@@ -6,3 +6,7 @@ Haven't solved any of these yet. I hate it when tech questions use these during 
 
 # *August 31, 2021* 
 3. `Lowest common manager` - very difficult to implement and visualize (hard) problem
+
+# *September 19, 2021* 
+
+1. `Four Number Sum` - 

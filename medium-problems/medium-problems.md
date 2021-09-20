@@ -209,7 +209,23 @@ helper(arr, perm, perms):
 
 # *September 19, 2021*  
 
-1. `Reverse words in a string` -  
+1. `Reverse words in a string` -  This is actually very easy conceptually but I keep setting the bounds wrong and running into bugs. Yikes. 
+2. `Minimum characters for words` - Not bad conceptually, but forgot so much of how to iterate hashmap properly. 
+note to self: 
+```java 
+// This is how you iterate through a hashmpa. 
+for (Map.Entry<Key, Value> set : map.entrySet()) { 
+    Key key = set.getKey(); 
+    Value value = set.getValue(); 
+}
+
+// Update hashmap 
+map.replace(key, value); 
+
+// Only put if it didn't exist at first 
+map.putIfAbsent(key, value); 
+```
+3. `Suffix Trie Construction` - 
 
 
 
