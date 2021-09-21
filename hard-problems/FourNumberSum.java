@@ -48,7 +48,7 @@ public class FourNumberSum {
     public static void main(String[] args) {
         int[] input = new int[] { 7, 6, 4, -1, 1, 2 };
         int targetSum = 16;
-        List<Integer[]> results = fourNumberSum(input, 16);
+        List<Integer[]> results = fourNumberSum(input, targetSum);
         for (Integer[] q : results) { 
             System.out.println("[" + q[0] + ", " + q[1] + ", " + q[2] + ", " + q[3]+"]");
         }
