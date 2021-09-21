@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "medium-problems",
-        "easy-problems"
+        "easy-problems",
+        "hard-problems"
     ]
 }
