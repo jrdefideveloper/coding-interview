@@ -46,7 +46,6 @@ public class ZigzagTraverse {
         }
         return result;
     }
-
     
     /** 
      * @param row
@@ -57,6 +56,23 @@ public class ZigzagTraverse {
      */
     public static boolean isOutOfBounds(int row, int col, int height, int width) {
         return row < 0 || row > height || col < 0 || col > width;
+    }
+
+    public static void main(String[] args) { 
+        List<List<Integer>> array = new ArrayList<List<Integer>>();  
+        ArrayList<Integer> firstRow = new ArrayList<>(Arrays.asList(1, 3, 4, 10)); 
+        ArrayList<Integer> secondRow = new ArrayList<>(Arrays.asList(2, 5, 9, 11));
+        ArrayList<Integer> thirdRow = new ArrayList<>(Arrays.asList(6, 8, 12, 15));
+        ArrayList<Integer> fourthRow = new ArrayList<>(Arrays.asList(7, 13, 14, 16));
+        array.add(firstRow); 
+        array.add(secondRow);
+        array.add(thirdRow);
+        array.add(fourthRow);
+        List<Integer> zzresult = zigzagTraverse(array); 
+        for (Integer num : zzresult) { 
+            System.out.print(num + " "); 
+        }
+
     }
 
 }
