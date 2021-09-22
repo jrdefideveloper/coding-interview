@@ -21,5 +21,5 @@ Sidenote `two number sum` and `three number sum` are O(n) and O(n * nlogn) best 
 
 # *September 21, 2021* 
 
-1. `Subarray sort` - Difficult to think of  
-2. `` - 
+1. `Subarray sort` - Using a isOutOfOrder function really helped. 
+2. `Largest range` - Interesting problem  
