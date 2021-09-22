@@ -24,3 +24,4 @@ Sidenote `two number sum` and `three number sum` are O(n) and O(n * nlogn) best 
 1. `Subarray sort` - Using a isOutOfOrder function really helped. 
 2. `Largest range` - Interesting problem  
 3. `Min rewards` - Interesting greedy algorithm 
+4. `Zig zag traverse` - 
