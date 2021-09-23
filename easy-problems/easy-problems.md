@@ -194,8 +194,8 @@ Doing the last easy problem. Then moved onto medium problems. See mediums proble
 
 # *September 23, 2021* 
 
-+ `logger rate limiter` - Wow it's so easy I wish someone could ask me something like this during an interview 
-
++ `leetcode: logger rate limiter` - Wow it's so easy I wish someone could ask me something like this during an interview 
++ `leetcode: employee importance` - nice refresher on bfs/dfs 
 
 # Random things I went over  
 
