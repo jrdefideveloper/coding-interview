@@ -26,3 +26,8 @@ Sidenote `two number sum` and `three number sum` are O(n) and O(n * nlogn) best 
 3. `Min rewards` - Interesting greedy algorithm 
 4. `Zig zag traverse` - Just about the weirdest problem ever.  
 5. `Same BSTs` - Damn this one is so hard. 
+
+# *September 22, 2021* 
+
+1. `Validate three nodes` - Not so bad actually. Code is clean too. 
+2. `` - 

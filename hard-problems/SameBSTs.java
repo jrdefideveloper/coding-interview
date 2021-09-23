@@ -23,41 +23,45 @@ public class SameBSTs {
     // [94, 81] versus [94, 81]
 
     // O(n^2) time | O(n^2) space
-
     public static boolean sameBsts(List<Integer> arrayOne, List<Integer> arrayTwo) {
-        if (arrayOne.size() != arrayTwo.size()) return false;  
+        if (arrayOne.size() != arrayTwo.size())
+            return false;
 
-        if (arrayOne.size() == 0 && arrayTwo.size() == 0) return true; 
+        if (arrayOne.size() == 0 && arrayTwo.size() == 0)
+            return true;
 
-        if (arrayOne.get(0) != arrayTwo.get(0)) return false;  
+        if (arrayOne.get(0) != arrayTwo.get(0))
+            return false;
 
         List<Integer> leftOne = getSmaller(arrayOne);
         List<Integer> leftTwo = getSmaller(arrayTwo);
-        List<Integer> rightOne = getBiggerOrEqual(arrayOne);  
+        List<Integer> rightOne = getBiggerOrEqual(arrayOne);
         List<Integer> rightTwo = getBiggerOrEqual(arrayTwo);
         return sameBsts(leftOne, leftTwo) && sameBsts(rightOne, rightTwo);
     }
 
-    public static List<Integer> getSmaller(List<Integer> array) { 
-        List<Integer> allSmaller = new ArrayList<Integer>(); 
-        for (int i = 1; i < array.size(); i++) { 
-            if (array.get(i) < array.get(0)) allSmaller.add(array.get(i)); 
+    public static List<Integer> getSmaller(List<Integer> array) {
+        List<Integer> allSmaller = new ArrayList<Integer>();
+        for (int i = 1; i < array.size(); i++) {
+            if (array.get(i) < array.get(0))
+                allSmaller.add(array.get(i));
         }
-        return allSmaller; 
+        return allSmaller;
     }
 
-    public static List<Integer> getBiggerOrEqual(List<Integer> array) { 
-        List<Integer> allBiggerOrEqual = new ArrayList<Integer>(); 
-        for (int i = 1; i < array.size(); i++) { 
-            if (array.get(i) >= array.get(0)) allBiggerOrEqual.add(array.get(i)); 
+    public static List<Integer> getBiggerOrEqual(List<Integer> array) {
+        List<Integer> allBiggerOrEqual = new ArrayList<Integer>();
+        for (int i = 1; i < array.size(); i++) {
+            if (array.get(i) >= array.get(0))
+                allBiggerOrEqual.add(array.get(i));
         }
-        return allBiggerOrEqual; 
+        return allBiggerOrEqual;
     }
 
-    public static void main(String[] args) { 
+    public static void main(String[] args) {
         List<Integer> arrayOne = new ArrayList<Integer>(Arrays.asList(10, 15, 8, 12, 94, 81, 5, 2, 11));
         List<Integer> arrayTwo = new ArrayList<Integer>(Arrays.asList(10, 8, 5, 15, 2, 12, 11, 94, 81));
-        System.out.println("The two arrays represent the same BST = " + sameBsts(arrayOne, arrayTwo)); 
+        System.out.println("The two arrays represent the same BST = " + sameBsts(arrayOne, arrayTwo));
     }
 
 }
