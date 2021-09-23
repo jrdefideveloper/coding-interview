@@ -192,6 +192,10 @@ Evaluation :trollface:
 
 Doing the last easy problem. Then moved onto medium problems. See mediums problems directory. 
 
+# *September 23, 2021* 
+
++ `logger rate limiter` - Wow it's so easy I wish someone could ask me something like this during an interview 
+
 
 # Random things I went over  
 
@@ -206,7 +210,7 @@ sb.reverse();
 
 Deleting a last character from a StringBuilder quickly 
 ```java 
-sb.deleteCharAt(sb.length() - 1); // Delete first character 
+sb.deleteCharAt(sb.length() - 1); // Delete last character 
 sb.deleteCharAt(sb.length() - 2); // Delete second to last character. 
 
 ```
