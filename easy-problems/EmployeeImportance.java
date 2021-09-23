@@ -8,8 +8,9 @@ public class EmployeeImportance {
         public List<Integer> subordinates;
     };
 
+    HashMap<Integer, Employee> eMap = new HashMap<Integer, Employee>();
+
     public int getImportance(List<Employee> employees, int id) {
-        HashMap<Integer, Employee> eMap = new HashMap<Integer, Employee>();
         for (Employee employee : employees) {
             eMap.putIfAbsent(employee.id, employee);
         }
@@ -24,6 +25,23 @@ public class EmployeeImportance {
             }
         }
         return sum;
+    }
+
+    public int dfs(int eid) {
+        Employee current = eMap.get(eid);  
+        int sum = current.importance; 
+        for (Integer subId : current.subordinates) { 
+            sum += dfs(subId); 
+        }
+        return sum; 
+    }
+
+    public int getImportanceRecursive(List<Employee> employees, int id) { 
+        for (Employee employee : employees) {
+            eMap.putIfAbsent(employee.id, employee);
+        }
+
+        return dfs(id); 
     }
 
     public static void main(String[] args) { 
