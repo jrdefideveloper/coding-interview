@@ -35,4 +35,4 @@ Sidenote `two number sum` and `three number sum` are O(n) and O(n * nlogn) best 
 # *September 23, 2021* 
 
 1. `Max Path Sum In Binary Tree` -  This is no doubt a hard problem... lol 
-2. `` - 
+2. `Max sum increasing subsequence` - 
