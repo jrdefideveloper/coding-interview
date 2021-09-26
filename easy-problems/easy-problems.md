@@ -197,6 +197,14 @@ Doing the last easy problem. Then moved onto medium problems. See mediums proble
 + `leetcode: logger rate limiter` - Wow it's so easy I wish someone could ask me something like this during an interview 
 + `leetcode: employee importance` - nice refresher on bfs/dfs 
 
+# *September 24, 2021* 
+
+interviews 
+
+# *September 25, 2021* 
+
++ `Find Nodes Distance K` - 
+
 # Random things I went over  
 
 ## StringBuilder

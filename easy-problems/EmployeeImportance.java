@@ -40,7 +40,6 @@ public class EmployeeImportance {
         for (Employee employee : employees) {
             eMap.putIfAbsent(employee.id, employee);
         }
-
         return dfs(id); 
     }
 
