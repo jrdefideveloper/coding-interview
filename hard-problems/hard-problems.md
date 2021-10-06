@@ -36,3 +36,8 @@ Sidenote `two number sum` and `three number sum` are O(n) and O(n * nlogn) best 
 
 1. `Max Path Sum In Binary Tree` -  This is no doubt a hard problem... lol 
 2. `Max sum increasing subsequence` - 
+
+
+# *October 4, 2021* 
+
+1. `Multi string search`  - 
